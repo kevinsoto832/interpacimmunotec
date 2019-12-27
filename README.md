@@ -1,2 +1,2 @@
 # interpacimmunotec
-Website for my mom's business
+Wordpress installation for my mother's website. 
